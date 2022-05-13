@@ -1,6 +1,0 @@
-Nota: 
-Se añadió el CRUD de empleados
-Aún no se permite la edición de los campos de datos en modificar datos para ambos actores (clientes/empleados)
-La sección de pedidos ya se puede utilizar
-
-Para añadir la imagen de un platillo para el menú abrir carpeta Admin --> img
